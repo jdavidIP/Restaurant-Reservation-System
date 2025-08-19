@@ -13,6 +13,9 @@ builder.Services.Configure<MongoDBSettings>(builder.Configuration.GetSection("mo
 builder.Services.AddDbContext<RestaurantReservationDbContext>(options =>
 options.UseMongoDB(mongoDBSettings.AtlasURI ?? "", mongoDBSettings.DatabaseName ?? ""));
 
+builder.Services.AddScoped<IRestaurantService, RestaurantService>();
+builder.Services.AddScoped<IReservationService, ReservationService>();
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
