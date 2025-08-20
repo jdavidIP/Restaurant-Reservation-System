@@ -28,6 +28,22 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Ibapo/OneDrive/Escritorio/Projects/\,NET/RestRes/Views/Reservation/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25cQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ibapo/OneDrive/Escritorio/Projects/\,NET/RestRes/Views/Reservation/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ibapo/OneDrive/Escritorio/Projects/\,NET/RestRes/Views/Reservation/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ibapo/OneDrive/Escritorio/Projects/\,NET/RestRes/Views/Reservation/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Ibapo/OneDrive/Escritorio/Projects/\,NET/RestRes/Views/Restaurant/Add.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdGF1cmFudFxBZGQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
